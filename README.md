@@ -1,1 +1,1 @@
-# Terminal-auto-solver
+# Terminal-auto-solver-Skyblock
